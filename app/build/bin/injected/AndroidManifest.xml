@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	package="com.kyunggi.xposedtest"
+	package="com.kyunggi.logcalls"
 	android:versionCode="1"
 	android:versionName="1.0">
 
@@ -20,7 +20,7 @@
 
 		<meta-data
 			android:name="xposeddescription"
-			android:value="Easy example which makes the status bar clock red and adds a smiley"/>
+			android:value="Logs method calls"/>
 
 		<meta-data
 			android:name="xposedminversion"
